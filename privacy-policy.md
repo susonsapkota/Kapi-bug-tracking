@@ -1,9 +1,10 @@
+---
+
 **Privacy Policy**
 
+Suson Sapkota built the Kapi app as a Free app with optional subscription features. This SERVICE is provided by Suson Sapkota at no cost with basic features and optional paid subscriptions, and is intended for use as is.
 
-built the Kapi app as a Free app. This SERVICE is provided by Suson Sapkota at no cost and is intended for use as is.
-
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -11,13 +12,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, email address, and usage data. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Link to the privacy policy of third-party service providers used by the app:
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+* [Google Play Services](https://www.google.com/policies/privacy/)
 
 **Log Data**
 
@@ -31,14 +32,24 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 **Service Providers**
 
-I may employ third-party companies and individuals due to the following reasons:
+I may employ third-party companies and individuals for the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Billing and Payments**
+
+The app offers subscription services that provide additional features and benefits. Payments for subscriptions will be processed through third-party payment processors. When you subscribe, you will provide payment information such as your credit card number or other financial account information, which will be collected and processed by these third-party payment processors.
+
+**Subscription Terms**
+
+* **Auto-renewal:** Subscriptions are billed on a recurring basis and will automatically renew unless canceled by the user at least 24 hours before the end of the current billing period.
+* **Cancellation:** You can cancel your subscription at any time through your account settings in the app or by contacting customer support. If you cancel, you will continue to have access to the subscription benefits until the end of the current billing period. No refunds will be issued for the remaining days of the billing period after cancellation.
+* **Free Trial:** If offered, a free trial will automatically convert to a paid subscription at the end of the trial period unless canceled before the trial ends.
 
 **Security**
 
@@ -56,7 +67,9 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-03-21
+This policy is effective as of 2023-03-21.
+
+By using the app you agree to these policies.
 
 **Contact Us**
 
