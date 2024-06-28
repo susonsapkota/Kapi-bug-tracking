@@ -12,6 +12,7 @@ The app does use third-party services that declare their Terms and Conditions.
 Link to Terms and Conditions of third-party service providers used by the app:
 
 * [Google Play Services](https://policies.google.com/terms)
+* [Apple Services](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
 
 **Subscription Terms**
 
@@ -38,4 +39,4 @@ These terms and conditions are effective as of 2023-03-21.
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at susonsapkota@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at hi@susonsapkota.com
