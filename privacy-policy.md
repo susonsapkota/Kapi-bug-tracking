@@ -1,4 +1,3 @@
----
 
 **Privacy Policy**
 
@@ -19,6 +18,7 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app:
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
+* [Apple Services](https://www.apple.com/legal/privacy/)
 
 **Log Data**
 
@@ -73,4 +73,4 @@ By using the app you agree to these policies.
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at susonsapkota@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hi@susonsapkota.com
