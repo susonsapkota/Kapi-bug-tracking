@@ -11,6 +11,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
+Voice and Text Data: When you use the AI speaking or writing exercises, your voice recordings and text inputs are transmitted to third-party cloud providers (Microsoft Azure and Google Gemini) for the sole purpose of processing and providing immediate feedback. This data is not stored permanently by us and is used strictly for generating the exercise results.
+
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, email address, and usage data. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
@@ -23,6 +25,15 @@ Link to the privacy policy of third-party service providers used by the app:
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+**User Feedback and Support Data**
+
+We use a third-party service to collect in-app feedback, bug reports, and suggestions. If you choose to submit feedback:
+
+You may voluntarily provide your email address to receive a response.
+You may upload screenshots that could contain visible information.
+This information is used solely for the purpose of communicating with you and improving the application. It is not sold or shared with external advertisers.
+Please avoid including sensitive personal information (such as phone numbers or home addresses) in your feedback descriptions.
 
 **Cookies**
 
@@ -40,6 +51,12 @@ I may employ third-party companies and individuals for the following reasons:
 * To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+*RevenueCat
+*Microsoft Azure Services
+*Google Gemini API
+*Wiredash
+
 
 **Billing and Payments**
 
