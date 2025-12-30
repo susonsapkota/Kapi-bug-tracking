@@ -155,7 +155,3 @@ These Legal Terms constitute the entire agreement between you and us. If any par
 
 In order to resolve a complaint, please contact us at:
 **hi@susonsapkota.com**
-
----
-
-Would you like me to help you fill in the remaining placeholders (the company name and address) or generate a summary of these terms for your users?
