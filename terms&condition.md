@@ -6,11 +6,11 @@
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
-We are **__________** ("Company," "we," "us," "our"). We operate the mobile application **Kapi: Learn Nepali** (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+We are Suson Sapkota ("Company," "we," "us," "our"). We operate the mobile application **Kapi: Learn Nepali** (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
 You can contact us by email at **hi@susonsapkota.com** 
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and **__________**, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and **Suson Sapkota**, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates.
 
