@@ -1,93 +1,175 @@
+# PRIVACY POLICY
 
-**Privacy Policy**
+**Last updated: December 30, 2025**
 
-Suson Sapkota built the Kapi app as a Free app with optional subscription features. This SERVICE is provided by Suson Sapkota at no cost with basic features and optional paid subscriptions, and is intended for use as is.
+This Privacy Notice for **Suson Sapkota** ("we," "us," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you download and use our mobile application **Kapi: Learn Nepali** or any other application of ours that links to this Privacy Notice.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
+---
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## SUMMARY OF KEY POINTS
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Kapi unless otherwise defined in this Privacy Policy.
+* **What personal information do we process?** We process information you disclose (names, emails, feedback) and information collected automatically (IP addresses, device data).
+* **Do we process sensitive personal information?** No.
+* **How do we process your information?** To provide and improve our Services, communicate with you, ensure security, and comply with the law.
+* **Do we use AI?** Yes, we use Google Cloud AI and Microsoft Azure AI for translation and text analysis.
+* **How do we keep your information safe?** We use technical and organizational security measures, though no system is 100% secure.
 
-**Information Collection and Use**
+---
 
-Voice and Text Data: When you use the AI speaking or writing exercises, your voice recordings and text inputs are transmitted to third-party cloud providers (Microsoft Azure and Google Gemini) for the sole purpose of processing and providing immediate feedback. This data is not stored permanently by us and is used strictly for generating the exercise results.
+## TABLE OF CONTENTS
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, email address, and usage data. The information that I request will be retained on your device and is not collected by me in any way.
+1. [WHAT INFORMATION DO WE COLLECT?]
+2. [HOW DO WE PROCESS YOUR INFORMATION?]
+3. [LEGAL BASES FOR PROCESSING]
+4. [SHARING YOUR INFORMATION]
+5. [COOKIES AND TRACKING]
+6. [ARTIFICIAL INTELLIGENCE PRODUCTS]
+7. [DATA RETENTION]
+8. [SECURITY MEASURES]
+9. [PRIVACY OF MINORS]
+10. [YOUR PRIVACY RIGHTS]
+11. [DO-NOT-TRACK FEATURES]
+12. [US STATE-SPECIFIC RIGHTS]
+13. [UPDATES TO THIS NOTICE]
+14. [CONTACT US]
+---
 
-The app does use third-party services that may collect information used to identify you.
+### 1. WHAT INFORMATION DO WE COLLECT?
 
-Link to the privacy policy of third-party service providers used by the app:
+**Personal information you disclose to us**
+We collect information you voluntarily provide, including:
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [Apple Services](https://www.apple.com/legal/privacy/)
+* Names and email addresses.
+* Screenshots (which may contain visible information you choose to share).
+* Feedback and customer support inquiries.
 
-**Log Data**
+**Payment Data**
+All payment data is handled by **Apple** and **Google**. You can find their privacy notices here:
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+* [Apple Legal](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
+* [Google Privacy](https://www.google.com/policies/privacy/)
 
-**User Feedback and Support Data**
+**Application Data**
+If you grant permission, we may access:
 
-We use a third-party service to collect in-app feedback, bug reports, and suggestions. If you choose to submit feedback:
+* **Microphone:** For pronunciation assessment features.
+* **Storage:** To save progress or screenshots.
+* **Push Notifications:** To send account alerts or feature updates.
 
-You may voluntarily provide your email address to receive a response.
-You may upload screenshots that could contain visible information.
-This information is used solely for the purpose of communicating with you and improving the application. It is not sold or shared with external advertisers.
-Please avoid including sensitive personal information (such as phone numbers or home addresses) in your feedback descriptions.
+**Information automatically collected**
+We collect technical data such as IP addresses, browser/device characteristics, operating system, and usage logs (date/time stamps, feature interactions).
 
-**Cookies**
+Our use of Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy).
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+---
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+### 2. HOW DO WE PROCESS YOUR INFORMATION?
 
-**Service Providers**
+We process your information to:
 
-I may employ third-party companies and individuals for the following reasons:
+* Deliver and facilitate the Kapi services.
+* Monitor for fraud and protect the security of our Services.
+* Protect the vital interests of individuals (e.g., to prevent harm).
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
+---
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+### 3. WHAT LEGAL BASES DO WE RELY ON?
 
-*RevenueCat
-*Microsoft Azure Services
-*Google Gemini API
-*Wiredash
+We only process your info when we have a valid legal reason:
 
+* **Consent:** You have given us specific permission.
+* **Contract:** To fulfill our agreement with you.
+* **Legitimate Interests:** For business improvements that don't outweigh your rights.
+* **Legal Obligations:** To comply with law enforcement or regulatory requirements.
 
-**Billing and Payments**
+---
 
-The app offers subscription services that provide additional features and benefits. Payments for subscriptions will be processed through third-party payment processors. When you subscribe, you will provide payment information such as your credit card number or other financial account information, which will be collected and processed by these third-party payment processors.
+### 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
-**Subscription Terms**
+* **Business Transfers:** During negotiations for a merger or sale of assets.
+* **Offer Walls:** Third-party advertisers may receive a unique identifier (like a User ID) to credit your account for completed offers.
 
-* **Auto-renewal:** Subscriptions are billed on a recurring basis and will automatically renew unless canceled by the user at least 24 hours before the end of the current billing period.
-* **Cancellation:** You can cancel your subscription at any time through your account settings in the app or by contacting customer support. If you cancel, you will continue to have access to the subscription benefits until the end of the current billing period. No refunds will be issued for the remaining days of the billing period after cancellation.
-* **Free Trial:** If offered, a free trial will automatically convert to a paid subscription at the end of the trial period unless canceled before the trial ends.
+---
 
-**Security**
+### 5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+We use cookies and Google Analytics to analyze how users interact with Kapi.
 
-**Links to Other Sites**
+* **Opt-out:** Visit the [Google Analytics Opt-out page](https://tools.google.com/dlpage/gaoptout).
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+---
 
-**Children’s Privacy**
+### 6. DO WE OFFER ARTIFICIAL INTELLIGENCE-BASED PRODUCTS?
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Yes. Our AI Products (for translation, NLP, and text analysis, etc ) utilize:
 
-**Changes to This Privacy Policy**
+* **Google Cloud AI**
+* **Microsoft Azure AI**
+Your input and personal information are shared with these providers solely to facilitate the AI features within the app.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+---
 
-This policy is effective as of 2023-03-21.
+### 7. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-By using the app you agree to these policies.
+We keep your info for as long as necessary to fulfill the purposes in this notice, unless a longer period is required by law. When no longer needed, we delete or anonymize it.
 
-**Contact Us**
+---
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hi@susonsapkota.com
+### 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+We use technical and organizational security measures. However, transmission of information over the internet is at your own risk; please use the app in a secure environment.
+
+---
+
+### 9. DO WE COLLECT INFORMATION FROM MINORS?
+
+Kapi does **not** address anyone under the age of 13. We do not knowingly collect data from children under 13. If we discover such data has been collected, we will delete it immediately.
+
+---
+
+### 10. WHAT ARE YOUR PRIVACY RIGHTS?
+
+In regions like the EEA, UK, and Canada, you have the right to:
+
+* Access, rectify, or erase your personal info.
+* Object to or restrict processing.
+* Request data portability.
+Withdraw consent at any time by emailing **hi@susonsapkota.com**.
+
+---
+
+### 11. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+We do not currently respond to Do-Not-Track (DNT) browser signals as no uniform technology standard exists.
+
+---
+
+### 12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+Residents of states like California, Colorado, and Virginia have specific rights to know, access, and delete their data.
+
+* **Shine the Light:** California residents may request info regarding shared data for marketing once a year.
+* **Categories Collected:** Identifiers (Name, Email, IP) and Commercial Information (Transaction history via App Stores).
+
+---
+
+### 13. DO WE MAKE UPDATES TO THIS NOTICE?
+
+Yes. The revised date will be updated at the top of this notice. Material changes will be notified via the app or email.
+
+---
+
+### 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+If you have questions, contact us at:
+
+**Suson Sapkota**
+**hi@susonsapkota.com**
+
+---
+
+### 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE YOUR DATA?
+
+You can request access, updates, or deletion of your data by emailing **hi@susonsapkota.com**.
+
+---
